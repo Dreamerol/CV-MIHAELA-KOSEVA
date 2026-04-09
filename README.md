@@ -15,6 +15,11 @@
 
 ---
 
+https://github.com/Dreamerol/Dreamerol/blob/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png
+
+
+---
+
 ## 📝 SUMMARY
 
 Software Engineering student at Sofia University (FMI) with a strong foundation in algorithms, problem-solving, 
