@@ -2,8 +2,6 @@
 
 <p align="center">
   
-<h1> MIHAELA KOSEVA </h1>
-
 <p align="center">
 <h1>MIHAELA KOSEVA</h1>
 <span style="font-size:1.1em;"><b>📍 Sofia, Bulgaria | 📞 +359 89 764 3552 | ✉️ michaelakoseva@gmail.com</b></span><br>
