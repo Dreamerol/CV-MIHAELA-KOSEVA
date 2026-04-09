@@ -3,9 +3,9 @@
 <p align="center">
 <h1>MIHAELA KOSEVA</h1>  
 
-<p align="center">
-<h1><b>MIHAELA KOSEVA</b></h1>
-</p>
+<div align="center">
+  <h1><b>MIHAELA KOSEVA</b></h1>
+</div>
 
 ---
   
