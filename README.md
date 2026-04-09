@@ -28,6 +28,12 @@
   
   </span>
 
+  <p align="center">
+  <a href="https://github.com/Dreamerol/CV-Junior-Data-Analyst-SWE-Engineer/raw/main/README.pdf" download>
+    <img src="https://img.shields.io/badge/📄_ИЗТЕГЛИ_PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Download PDF">
+  </a>
+</p>
+
 </div>
 
 
