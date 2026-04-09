@@ -100,13 +100,6 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 
 ---
-## 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
-
-**𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
-**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
-**𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING  
-
----
 
 ## 📝 𝗥𝗘𝗔𝗟-𝗪𝗢𝗥𝗟𝗗 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
@@ -141,9 +134,9 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 ## 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
-**𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
-**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
-**𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING
+**𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
+**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
+**𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING  
 
 </div>
 
