@@ -25,8 +25,7 @@
 
   <span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-    🐙 <a href="https://github.com/Dreamerol" style="text-decoration:none;">𝗚𝗜𝗧𝗛𝗨𝗕</a> |
-    ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg" download style="text-decoration:none;">𝗖𝗩</a>
+       ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg" download style="text-decoration:none;">𝗖𝗩</a>
   </span>
 
 </div>
