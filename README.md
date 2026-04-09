@@ -56,7 +56,7 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ## 🛠️ SELECTED PROJECTS
 
-### [🧠 Neural Network Lab](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+### [🧠 Neural Networks](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 - Designed, trained & evaluated neural networks (~90%+ accuracy).  
 - Implemented **Backpropagation 🔄** & **Gradient Descent 📉** from scratch.  
 - Applied ML to dynamic system modeling (SIR model, ODE simulations).
