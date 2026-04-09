@@ -164,7 +164,7 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ---
 
-## 💻 KEY SKILLS
+## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
 
 **Machine Learning & AI 🤖:** Neural Networks, Regression, Classification, Model Evaluation, Feature Engineering, Scikit-learn, LLM Basics  
 **Backend Development 🖥️:** Java ☕, Python 🐍, REST APIs 🔗, API Integrations, Microservices Concepts 🏗️, Spring Boot Basics  
@@ -188,7 +188,7 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ---
 
-## 📚 EDUCATION
+## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
 **Sofia University (FMI)** — Bachelor’s in Software Engineering  
 Oct 2024 – Present  
 
@@ -209,7 +209,7 @@ Oct 2024 – Present
 
 ---
 
-## 🏅 CERTIFICATIONS & COURSES
+## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
 - Data Science — SoftUni 📊  
 - Mathematical Concepts for Developers — SoftUni 🧮  
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
@@ -229,13 +229,13 @@ Oct 2024 – Present
 
 ---
 
-## 🏆 AWARDS
+## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅  
 
 ---
 
-## 🔗 TECH BADGES
+## 🔗 𝗧𝗘𝗖𝗛 𝗕𝗔𝗗𝗚𝗘𝗦
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
