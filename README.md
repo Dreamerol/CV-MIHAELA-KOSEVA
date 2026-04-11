@@ -35,6 +35,35 @@
 
 <p align="center">
 
+
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
+  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Poker%20Game-6A5ACD?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img height="65" src="https://img.shields.io/badge/Databases-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img height="65" src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
+
+  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
 </a>
@@ -93,30 +122,6 @@
 
 <a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
   <img height="65" src="https://img.shields.io/badge/LMS%20System-00BFFF?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-8A2BE2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Poker%20Game-6A5ACD?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
 </a>
 
 </p>
