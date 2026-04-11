@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -279,7 +279,7 @@
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -396,7 +396,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -524,7 +524,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -636,7 +636,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -764,7 +764,7 @@ Oct 2024 – Present
 
 <div align="center">
 
-## 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
