@@ -289,7 +289,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 - Optimized SQL queries (~30% performance improvement).  
 - Enabled KPI tracking & **data-driven insights**.
 
-### [🌐 SOFTWARE PORTFOLIO - DEVELOPER HUB](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
+### [🌐 SOFTWARE PORTFOLIO](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
 - 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 linking repositories.
 - Personal developer portfolio showcasing projects, skills & achievements.  
 - Fully responsive UI with modern UI/UX design principles.  
