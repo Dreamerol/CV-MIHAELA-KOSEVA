@@ -1,8 +1,6 @@
 
+# MIHAELA KOSEVA
 
-
-
-![](https://github.com/Dreamerol/Dreamerol/blob/869cce32f060fbd331c69ee7fd839a9adfc3c080/zzzzzDATA222.jpg)
 
 
 
