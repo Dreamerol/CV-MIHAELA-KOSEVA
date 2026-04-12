@@ -1,5 +1,5 @@
 
-# MIHAELA KOSEVA
+## MIHAELA KOSEVA
 
 <h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
 
