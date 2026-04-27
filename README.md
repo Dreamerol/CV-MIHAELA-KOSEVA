@@ -8,6 +8,17 @@
 ![](https://github.com/Dreamerol/Dreamerol/blob/7ec7e4f5d8ec8823e74ffcdb7a91570841c12fe0/!!!!!!!!!!!!!!!!!!!_BANNER999.PNG)
 
 
+<br>
+
+<div align="center">
+
+  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
+     width="100%"/>
+
+</div>
+
+
+<br>
  
 <br>
 
