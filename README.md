@@ -573,6 +573,7 @@ Oct 2024 – Present
 
 </div>
 
+
 <br>
 
 <h3 align="center">
@@ -583,7 +584,9 @@ Oct 2024 – Present
 
 </div>
 
+<br>
 
+<div align="center">
 
  📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
   </span>
