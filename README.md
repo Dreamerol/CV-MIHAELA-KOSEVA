@@ -5,7 +5,7 @@
 # <h1 align="center"> 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
 </h1>
 
-
+<br>
 <br>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 <br>
-
+<br>
  
 ---
 
